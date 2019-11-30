@@ -1,0 +1,3 @@
+pour les frontEnd (Angular et ReactJs), le dossier Node_modules a été supprimé pour raison de volume (25mg max pour chaque fichier dans github)
+
+Alors il faut installer les dépendances de Node (avec NPM) avant d'executer chaque FrontEnd
